@@ -1,6 +1,6 @@
 AndroidMobileNumberVerification
 ===============================
-
++52 614 103 2237
  A sample android app that validates user entered mobile number based identity. It sends an SMS to the number entered by the user, and intercepts the SMS to verify it. If the user enters a wrong mobile number, the verification fails. Useful for mobile apps and games that want to use phone number as unique id.
 
 What it does?
